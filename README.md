@@ -1,4 +1,9 @@
 ## Final Project for CB-DS-COHORT 7
+To better render plots visit:
+
+Part One: https://nbviewer.org/github/ReighanFM/Final_Project/blob/main/Jordan_Project_Part_One.ipynb
+
+Part Two: https://nbviewer.org/github/ReighanFM/Final_Project/blob/main/Jordan_Project_Part_Two.ipynb
 
 ## Jordan Peterson: Friend or Foe?: An exploration in speech senitment using NLP
 
